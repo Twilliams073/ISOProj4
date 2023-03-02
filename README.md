@@ -4,7 +4,7 @@ Submitted by: Tristan Williams
 
 Photo Scavenger Hunt is an app that asks users to post something whether it is a hiking spot or restaurant.
 
-Time spent: **X** hours spent in total
+Time spent: 1 hour spent in total
 
 ## Required Features
 
